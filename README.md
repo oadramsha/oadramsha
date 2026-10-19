@@ -1,11 +1,11 @@
-## 💫 About Me:
-👋 Hi, I'm Ramsha!
+## About Me:
+ Hi, I'm Ramsha!
 <br>
-🎓 Computer Science student at the University of Calgary
+Computer Science student at the University of Calgary
 <br>
-👀 I'm interested in software development, AI/ML, and cloud.
+I'm interested in software development, AI/ML, and cloud.
 <br>
-🚀 Currently building with React, TypeScript, and AWS.
+Currently building with React, TypeScript, and AWS.
 
 ## 🌐 Socials:
 
